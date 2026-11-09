@@ -17,3 +17,13 @@ The main objective of this project is to identify sales trends and help business
 - Power BI: For creating interactive dashboards and data visualization.
 - Microsoft Excel: For data preparation and basic data cleaning.
 - Data Analysis: For analyzing sales performance and identifying business insights.
+
+## Key Insights
+
+- Total Sales: $1.20 Million
+- Average Sales: $141
+- Total Number of Items: 8,523
+- Average Customer Rating: 3.9
+- Analyzed sales performance across different outlet locations.
+- Compared sales across different outlet types and item categories.
+- Identified sales trends based on outlet establishment year.
