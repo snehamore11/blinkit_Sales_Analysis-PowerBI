@@ -11,3 +11,9 @@ The Blinkit Sales Analysis project focuses on analyzing sales performance and un
 The dashboard provides insights into total sales, average sales, number of items, customer ratings, outlet locations, and outlet types.
 
 The main objective of this project is to identify sales trends and help businesses make better data-driven decisions.
+
+## Tools & Technologies Used
+
+- Power BI: For creating interactive dashboards and data visualization.
+- Microsoft Excel: For data preparation and basic data cleaning.
+- Data Analysis: For analyzing sales performance and identifying business insights.
