@@ -4,7 +4,7 @@ Blinkit Sales Analysis Dashboard created using Microsoft Power BI to anaylze sal
 ## Dashboard Preview
 ![Blinkit Sales Dashboard](dashboard.png)
 
-Project Overview
+## Project Overview
 
 The Blinkit Sales Analysis project focuses on analyzing sales performance and understanding business insights using Power BI.
 
