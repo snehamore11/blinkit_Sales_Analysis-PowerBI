@@ -27,3 +27,14 @@ The main objective of this project is to identify sales trends and help business
 - Analyzed sales performance across different outlet locations.
 - Compared sales across different outlet types and item categories.
 - Identified sales trends based on outlet establishment year.
+
+ ## Dashboard Features
+
+- Interactive sales dashboard.
+- Total Sales and Average Sales KPIs.
+- Outlet Location Type and Outlet Size filters.
+- Sales analysis by Item Type.
+- Fat Content analysis.
+- Outlet Establishment Year analysis.
+- Outlet Location and Outlet Type comparison.
+- Average Customer Rating analysis.
